@@ -1,6 +1,6 @@
 # Inter-American Development Bank
 
-## Open Integrated Environmental-Economic Modelling (OPEN-IEEM) Platform
+## OPEN Integrated Economic-Environmental Modeling (OPEN IEEM) Platform
 
 ## Ecosystem Services Modelling Data Packets
 
