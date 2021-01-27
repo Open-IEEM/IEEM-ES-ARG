@@ -2,7 +2,7 @@
 
 ## Open Integrated Environmental-Economic Modelling (OPEN-IEEM) Platform
 
-## Ecosystem Services Modelling Data Packets**
+## Ecosystem Services Modelling Data Packets
 
 ## Argentina
 
