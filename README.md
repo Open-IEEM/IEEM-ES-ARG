@@ -6,11 +6,11 @@
 
 ## Argentina 
 
-Download all [Ecosystem Service Modeling data](https://github.com/Open-IEEM/IEEM-ES-ARG/archive/main.zip)
+Download all [Ecosystem Service Modeling data.](https://github.com/Open-IEEM/IEEM-ES-ARG/archive/main.zip)
 
-Download this [data sheet](https://github.com/Open-IEEM/IEEM-ES-ARG/raw/main/ARG%20DATA%20SHEET.pdf).
+Download this [data sheet.](https://github.com/Open-IEEM/IEEM-ES-ARG/raw/main/ARG%20DATA%20SHEET.pdf)
 
-Download [README](https://github.com/Open-IEEM/IEEM-ES-ARG/raw/main/README.pdf).
+Download [README.](https://github.com/Open-IEEM/IEEM-ES-ARG/raw/main/README.pdf)
 
 <table>
 <tbody>
