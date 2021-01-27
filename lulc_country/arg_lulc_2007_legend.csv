@@ -1,0 +1,44 @@
+raster_cod,DESCRIPCIO,COD,ieem_cod,ieem_name
+1,Áreas terrestres cultivadas y/o manejadas,10000,1,Terrestrial areas cultivated or under management
+2,Cultivo de especies arbóreas (no determinado),11000,2,Cultivated tree species
+3,Cultivos de especies arbóreas en secano,11100,2,Cultivated tree species
+4,Cultivos de especies arbóreas bajo riego,11200,2,Cultivated tree species
+5,Cultivos de arbustos en secano,12100,3,Cultivated shrubs
+6,Cultivos de arbustos bajo riego,12200,3,Cultivated shrubs
+7,Cultivos de herbáceas (no determinado),13000,4,Herbaceous crops
+8,Cultivos de herbáceas graminoideas,13100,4,Herbaceous crops
+9,Cultivos de herbáceas no graminoides,13200,4,Herbaceous crops
+10,Áreas urbanas vegetadas,14000,5,Urban areas
+11,Bosques cerrados,21100,6,Forests
+12,Bosques abiertos,21200,6,Forests
+13,"Bosques abiertos, con arbustos",21210,6,Forests
+14,Arbustal abierto,22100,7,Shrub-covered areas
+15,Arbustal cerrado,22100,7,Shrub-covered areas
+16,Arbustal abierto,22200,7,Shrub-covered areas
+17,Arbustal disperso,22300,8,Grassland
+18,Pastizal cerrado (herbáceas graminoideas),23100,8,Grassland
+19,Pastizal abierto (herbáceas graminoideas),23200,8,Grassland
+20,Pastizal disperso,23300,9,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded"
+21,Bosques cerrados en áreas regularmente inundadas/anegadas o acuáticas,31100,9,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded"
+22,Bosques abiertos en áreas regularmente inundadas/anegadas o acuáticas,31200,9,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded"
+23,Árboles dispersos en áreas regularmente inundadas/anegadas o acuáticas,31300,9,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded"
+24,Arbustal cerrado a abierto en áreas regularmente inundadas/anegadas o acuáticas,32100,9,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded"
+25,Herbáceas cerradas en áreas regularmente inundadas/anegadas o acuáticas,33100,10,Artificial surfaces (including urban and associated areas)
+26,Superficies artificiales y áreas asociadas. Superficies construidas (no determinado),41000,10,Artificial surfaces (including urban and associated areas)
+27,Áreas urbanas densamente pobladas,41100,10,Artificial surfaces (including urban and associated areas)
+28,Áreas urbanas de densidad media,41200,10,Artificial surfaces (including urban and associated areas)
+29,Areas urbanas de baja densidad,41300,10,Artificial surfaces (including urban and associated areas)
+30,Areas urbanas dispersas,41400,10,Artificial surfaces (including urban and associated areas)
+31,Superficies no construidas,42000,11,Terrestrial barren land
+32,Áreas naturales desnudas consolidadas (no determinado),51000,11,Terrestrial barren land
+33,"Rocas, fragmentos",51100,11,Terrestrial barren land
+34,Salares,51200,11,Terrestrial barren land
+35,Dunas,52100,11,Terrestrial barren land
+36,Salinas,52200,11,Terrestrial barren land
+37,Suelos pedregosos,52300,12,Water bodies
+38,"Cuerpos de agua, nieve o hielo artificial",61000,12,Water bodies
+39,"Cuerpos de agua, nieve o hielo natural. Agua (no determinado)",71000,12,Water bodies
+40,Cuerpos de agua estacionario,71100,12,Water bodies
+41,Cuerpos de agua en movimiento,71200,13,Ice or snow
+42,Nieve,72000,13,Ice or snow
+43,Hielo,73000,14,No data
