@@ -8,7 +8,7 @@
 
 | **Description**                      | **Links** |
 | :--- | :---: |
-| Ecosystem Service Modeling Data \(Zipped folder\)      | [ **Download** ](https://github.com/Open-IEEM/IEEM-ES-ARG/archive/main.zip) |
+| Ecosystem Service Modeling Data \(Zipped folder\)      | [ **Download** ](/archive/main.zip) |
 | Country Data Sheet                   | [ **Download** ](https://github.com/Open-IEEM/IEEM-ES-ARG/raw/main/ARG%20DATA%20SHEET.pdf) |
 | This README                          | [ **Download** ](https://github.com/Open-IEEM/IEEM-ES-ARG/raw/main/README.pdf) |
 
