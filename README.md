@@ -1,24 +1,16 @@
 # Inter-American Development Bank
 
-## OPEN Integrated Economic-Environmental Modeling (OPEN IEEM) Platform
+# OPEN Integrated Economic-Environmental Modeling (OPEN IEEM) Platform
 
-## Ecosystem Services Modelling Data Packets
+# The Integrated Economic-Environmental Modeling Platform + Ecosystem Services Modeling (IEEM+ESM) data packet: Overview and guidelines for use
 
-Download all [Ecosystem Service Modeling data.](https://github.com/Open-IEEM/IEEM-ES-ARG/archive/main.zip)
+| **Description**                      | **Links** |
+|--------------------------------------|-----------|
+| Ecosystem Service Modeling Data      | [ <<Download>> ](https://github.com/Open-IEEM/IEEM-ES-ARG/archive/main.zip) |
+| Country Data Sheet                   | [ <<Download>> ](https://github.com/Open-IEEM/IEEM-ES-ARG/raw/main/ARG%20DATA%20SHEET.pdf) |
+| This README                          | [ <<Download>> ](https://github.com/Open-IEEM/IEEM-ES-ARG/raw/main/README.pdf) |
 
-Download this [data sheet.](https://github.com/Open-IEEM/IEEM-ES-ARG/raw/main/ARG%20DATA%20SHEET.pdf)
-
-Download [README.](https://github.com/Open-IEEM/IEEM-ES-ARG/raw/main/README.pdf)
-
-**The Integrated Economic-Environmental Modeling Platform + Ecosystem
-Services Modeling (IEEM+ESM) data packet: Overview and guidelines for
-use**
-
-*If you find an error in the data packet or have better national-scale
-data sources to add, please use the “Contact us” link on the IEEM
-website.*
-
-**1. Overview**
+## 1. Overview
 
 The Integrated Economic-Environmental Modeling platform (IEEM, Banerjee
 et al. 2016, 2019, 2020a) is designed to better integrate macroeconomic
@@ -65,7 +57,7 @@ of ecosystem service assessments in the region, as well as serve as a
 template for the development of data packets for other regions of the
 world or for other ecosystem service models.
 
-**2. Organization of the data packets**
+## 2. Organization of the data packets
 
 Each country’s data packet can be downloaded as a zipped folder from the
 IEEM website, with countries labeled by their 3-digit ISO code. Each
@@ -102,48 +94,48 @@ see Sharp et al. (2020).
 
 Data included in each country’s packet includes:
 
-1.  Administrative boundaries: National and 1<sup>st</sup>-level
+1.  **Administrative boundaries**: National and 1<sup>st</sup>-level
     administrative boundaries (i.e., departments, provinces, or states),
     which can be used to geographically summarize model outputs.
 
-2.  Annual precipitation: Average annual precipitation in mm/year, used
+2.  **Annual precipitation:** Average annual precipitation in mm/year, used
     in the annual water yield and nutrient delivery ratio models.
 
-3.  Depth to root restricting layer: Depth to bedrock in mm, up to a
+3. **Depth to root restricting layer:** Depth to bedrock in mm, up to a
     maximum value of 2000 mm, used in the annual water yield model.
 
-4.  Elevation: A digital elevation model measuring elevation above sea
+4.  **Elevation:** A digital elevation model measuring elevation above sea
     level in meters, used in the nutrient and sediment delivery ratio
     models.
 
-5.  K factor (soil erodibility): The susceptibility of soil to
+5.  **K factor (soil erodibility):** The susceptibility of soil to
     water-based erosion, used in the sediment delivery ratio model.
 
-6.  LULC\_CCI: Global land cover data, used by all four models.
+6.  **LULC\_CCI:** Global land cover data, used by all four models.
 
-7.  LULC\_country: National land cover data, used by all four models in
+7.  **LULC\_country:** National land cover data, used by all four models in
     countries with national land cover datasets (i.e., not available in
     all countries).
 
-8.  Model lookup tables: Lookup tables that associate land cover classes
+8.  **Model lookup tables:** Lookup tables that associate land cover classes
     with physical parameter estimates needed to run each of the four
     models.
 
-9.  Plant available water content: the quantity of water stored in the
+9.  **Plant available water content:** the quantity of water stored in the
     soil that can be used by plants, used in the annual water yield
     model.
 
-10. R factor (rainfall erosivity): A measure of the erosive force of
+10. **R factor (rainfall erosivity):** A measure of the erosive force of
     rainfall, used in the sediment delivery ratio model.
 
-11. Reference evapotranspiration: Average annual potential
+11. **Reference evapotranspiration:** Average annual potential
     evapotranspiration in mm/year, used in the annual water yield model.
 
-12. Soil carbon storage: The mass of soil carbon (in T/ha), which can be
+12. **Soil carbon storage:** The mass of soil carbon (in T/ha), which can be
     added to vegetation carbon storage model outputs to estimate total
     carbon storage.
 
-13. Watersheds: Watershed and subwatershed boundaries, used in the
+13. **Watersheds:** Watershed and subwatershed boundaries, used in the
     annual water yield, nutrient, and sediment delivery ratio models.
 
 **3. InVEST model-specific notes**
@@ -765,3 +757,7 @@ Version 14 Junio 2015.
 [2] FAO fertilizer application data were unavailable for Haiti, so we
 used values for Bolivia–the country in region with the lowest reported
 fertilizer levels–as a placeholder until Haitian data can be obtained.
+
+*If you find an error in the data packet or have better national-scale
+data sources to add, please use the “Contact us” link on the IEEM
+website.*
