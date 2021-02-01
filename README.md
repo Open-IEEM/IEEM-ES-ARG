@@ -6,7 +6,7 @@
 
 | **Description**                      | **Links** |
 |--------------------------------------|-----------|
-| Ecosystem Service Modeling Data      | [ **Download** ](https://github.com/Open-IEEM/IEEM-ES-ARG/archive/main.zip) |
+| Ecosystem Service Modeling Data \(Zipped folder\)      | [ **Download** ](https://github.com/Open-IEEM/IEEM-ES-ARG/archive/main.zip) |
 | Country Data Sheet                   | [ **Download** ](https://github.com/Open-IEEM/IEEM-ES-ARG/raw/main/ARG%20DATA%20SHEET.pdf) |
 | This README                          | [ **Download** ](https://github.com/Open-IEEM/IEEM-ES-ARG/raw/main/README.pdf) |
 
@@ -215,7 +215,7 @@ of the lookup table but recognize that this value actually represents
 the sum of above-ground biomass, below-ground biomass, and dead carbon
 biomass, excluding soil carbon. In all cases, these values can be
 replaced by national-scale carbon storage estimates from national forest
-or carbon inventories where such data are available.[1]
+or carbon inventories where such data are available.[^1]
 
 Since Ruesch and Gibbs do not account for soil carbon storage, we
 provide raster data for soil carbon storage from ISRIC’s SoilGrids 250m
@@ -277,7 +277,7 @@ parameters from a review of the same database (Natural Capital Project
 2019). Because of the importance of fertilizer application in global
 nutrient cycles and the heterogeneity of country-level fertilizer
 application, we used fertilizer application values for cropland from the
-FAOSTAT database, based on year 2015 data (FAO 2020).[2] For the CCI
+FAOSTAT database, based on year 2015 data (FAO 2020).[^2] For the CCI
 land cover classes “Mosaic cropland & natural vegetation” we set values
 to two thirds and one third of the national average for cropland where
 cropland was &gt;50% and &lt;50% of these mixed classes, respectively.
@@ -748,13 +748,13 @@ Yang, D., Kanae, S., Oki, T., Koike, T., and Musiake, K. 2003. Global
 potential soil erosion with reference to land use and climate changes.
 Hydrological Processes 17(14):2913–28.
 
-[1] For example, carbon storage parameters for forests, mangroves, and
+[^1]: For example, carbon storage parameters for forests, mangroves, and
 forest plantations in Costa Rica are drawn from: Carbon Decisions
 International. 2015. Herramienta para generar escenarios de existencias
 y cambios de existencias de carbono en los bosques de Costa Rica.
 Version 14 Junio 2015.
 
-[2] FAO fertilizer application data were unavailable for Haiti, so we
+[^2]: FAO fertilizer application data were unavailable for Haiti, so we
 used values for Bolivia–the country in region with the lowest reported
 fertilizer levels–as a placeholder until Haitian data can be obtained.
 
