@@ -745,6 +745,8 @@ Yang, D., Kanae, S., Oki, T., Koike, T., and Musiake, K. 2003. Global
 potential soil erosion with reference to land use and climate changes.
 Hydrological Processes 17(14):2913–28.
 
+## Notes
+
 <a name="footnote1">[1]</a>: For example, carbon storage parameters for forests, mangroves, and
 forest plantations in Costa Rica are drawn from: Carbon Decisions
 International. 2015. Herramienta para generar escenarios de existencias
