@@ -1,14 +1,14 @@
 # Inter-American Development Bank
 
-# OPEN Integrated Economic-Environmental Modeling (OPEN IEEM) Platform
+## OPEN Integrated Economic-Environmental Modeling (OPEN IEEM) Platform
 
-# The Integrated Economic-Environmental Modeling Platform + Ecosystem Services Modeling (IEEM+ESM) data packet: Overview and guidelines for use
+## The Integrated Economic-Environmental Modeling Platform + Ecosystem Services Modeling (IEEM+ESM) data packet: Overview and guidelines for use
 
 | **Description**                      | **Links** |
 |--------------------------------------|-----------|
 | Ecosystem Service Modeling Data      | [ **Download** ](https://github.com/Open-IEEM/IEEM-ES-ARG/archive/main.zip) |
 | Country Data Sheet                   | [ **Download** ](https://github.com/Open-IEEM/IEEM-ES-ARG/raw/main/ARG%20DATA%20SHEET.pdf) |
-| This README                          | [ **DOWNLOAD** ](https://github.com/Open-IEEM/IEEM-ES-ARG/raw/main/README.pdf) |
+| This README                          | [ **Download** ](https://github.com/Open-IEEM/IEEM-ES-ARG/raw/main/README.pdf) |
 
 ## 1. Overview
 
