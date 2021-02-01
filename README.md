@@ -92,7 +92,7 @@ see Sharp et al. (2020).
 | Soil carbon storage             | X                  |                        |                             |                             |
 | Watersheds & subwatersheds      |                    | X                      | X                           | X                           |
 
-Data included in each country’s packet includes:
+Data in each country’s packet includes:
 
 1.  **Administrative boundaries**: National and 1<sup>st</sup>-level
     administrative boundaries (i.e., departments, provinces, or states),
@@ -138,7 +138,7 @@ Data included in each country’s packet includes:
 13. **Watersheds:** Watershed and subwatershed boundaries, used in the
     annual water yield, nutrient, and sediment delivery ratio models.
 
-**3. InVEST model-specific notes**
+## 3. InVEST model-specific notes
 
 For full descriptions of each model, please consult the InVEST user’s
 guide (Sharp et al. 2020). InVEST models typically require a *lookup
@@ -302,7 +302,7 @@ adjusted as suggested in the InVEST user’s guide (Sharp et al. 2020).
 Mean annual precipitation data can be used for the nutrient runoff proxy
 model input.
 
-**4. Aligning land cover data for use in InVEST lookup tables**
+## 4. Aligning land cover data for use in InVEST lookup tables
 
 Because most InVEST models are driven by lookup tables, land cover is a
 critically important input dataset that drives estimates of ecosystem
@@ -347,7 +347,7 @@ into a common classification. This work also facilitates the ongoing
 integration of data tables into ARIES to further improve the
 interoperability and reusability of these data tables.
 
-**5. Customizing parameters in the lookup tables**
+## 5. Customizing parameters in the lookup tables ##
 
 Lookup tables for the four InVEST models in the data packet generally
 rely on global data; as described above, their national customization
@@ -431,7 +431,7 @@ sources for their model lookup tables.
 | Costa Rica: 740 km<sup>2</sup> region in "the Volcanic Central Talamanca Biological Corridor… located on the Caribbean slopes of the central volcanic mountain range of Costa Rica" | Annual water, carbon, nutrients, sediment | Values from Costa Rican studies for forests, forest plantations, sugarcane, coffee, and pasture carbon.                                                                     | N                          | Vallet et al. 2016         |
 | Peru: Watersheds hydrologically connected to proposed road connecting Pucallpa, Peru to Cruzeiro do Sul, Brazil (area not provided)                                                 | Carbon, nutrients, sediment               | Parameters sourced from a global literature review                                                                                                                          | N                          | Mandle et al. 2015         |
 
-**6. Caveats in the use of the data packets**
+## 6. Caveats in the use of the data packets
 
 Ultimately, we urge users to consider IEEM-provided lookup tables as a
 practical starting point for research studies that does not replace
@@ -514,10 +514,7 @@ studying the effects of forest management on ecosystem services may wish
 to include this information, adapting these parameters using local
 knowledge, where it is available.
 
-**  
-**
-
-**References**
+## References
 
 Alarcon, G.G., Y. Ayanu, A.C. Fantini, J. Farley, A.S. Filho, and T.
 Koellner. 2015. Weakening the Brazilian legislation for forest
